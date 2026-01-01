@@ -1,4 +1,4 @@
-#!/run/current-system/sw/bin/fish
+#!/usr/bin/env fish
 
 # vscode is the preferred editor for ib111 exams
 if which code >/dev/null 2>/dev/null
